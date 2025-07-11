@@ -46,7 +46,7 @@ hbwebsite/
 
 > Replace these with your actual image links if hosted on GitHub:
 
-![Homepage](images/homepage.png)
+![Homepage](https://github.com/sandeepkhatte41/hbwebsite/blob/d3fe965fb2fda808a067371ab44ccc2c41416e69/Website_output/2Home.png)
 ![Admin Dashboard](images/admin_dashboard.png)
 
 ---
