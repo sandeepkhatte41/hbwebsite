@@ -65,17 +65,13 @@ hbwebsite/
 
 ## 🙋‍♂️ Author
 
-**Sandeep Khatte**  
-**Mahesh Kudleppanavar**
-**Revayya Gidoji**
+**Sandeep Khatte** 🌐 [GitHub Profile](https://github.com/sandeepkhatte41)
+**Mahesh Kudleppanavar** 🌐 [GitHub Profile](https://github.com/MaheshKuleppanavar)
+**Revayya Gidoji** 🌐 [GitHub Profile](https://github.com/Revayya)
+
  sandeepkhatte2025@gmail.com  
  maheshkudleppanavar@gmail.com
  mgidoji626@gmail.com
-
-🌐 [GitHub Profile](https://github.com/sandeepkhatte41)
-🌐 [GitHub Profile](https://github.com/MaheshKuleppanavar)
-🌐 [GitHub Profile](https://github.com/Revayya)
-
 
 
 ---
